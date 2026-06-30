@@ -2,5 +2,5 @@
 IBM TORCS Competition
 
 Team:
-Bartosz Purzycki
+Bartosz Purzycki,
 Mateusz Powirski
